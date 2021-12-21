@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/dio-dotnet-series-filmes/DIO.Videos.csproj": {}
+    "/home/lhrtcunha/Projetos/dio-dotnet-series-filmes/DIO.Videos.csproj": {}
   },
   "projects": {
-    "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/dio-dotnet-series-filmes/DIO.Videos.csproj": {
+    "/home/lhrtcunha/Projetos/dio-dotnet-series-filmes/DIO.Videos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/dio-dotnet-series-filmes/DIO.Videos.csproj",
+        "projectUniqueName": "/home/lhrtcunha/Projetos/dio-dotnet-series-filmes/DIO.Videos.csproj",
         "projectName": "DIO.Videos",
-        "projectPath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/dio-dotnet-series-filmes/DIO.Videos.csproj",
+        "projectPath": "/home/lhrtcunha/Projetos/dio-dotnet-series-filmes/DIO.Videos.csproj",
         "packagesPath": "/home/lhrtcunha/.nuget/packages/",
-        "outputPath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/dio-dotnet-series-filmes/obj/",
+        "outputPath": "/home/lhrtcunha/Projetos/dio-dotnet-series-filmes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lhrtcunha/.nuget/NuGet/NuGet.Config"
